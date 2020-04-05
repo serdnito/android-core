@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_default">¡Ups! ¡Se ha producido un error inesperado!</string>
+    <string name="error_network">¡Ups! ¡No hay conexión a Internet!</string>
+    <string name="error_server">¡Ups! ¡Se ha perdido la conexión con el servidor!</string>
+    <string name="error_retry">Reintentar</string>
+</resources>
